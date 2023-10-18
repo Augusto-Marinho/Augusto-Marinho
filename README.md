@@ -1,5 +1,5 @@
-Olá Seja Bem Vindo ao meu GitHub! 
-<h1>Augusto Marinho</h1>
+Olá Seja Bem Vindo ao meu GitHub, me Chamo <b>Augusto Marinho</b>!
+
 <h2>
 Para voce me conhecer melhor</h2> 
 <p>Carreira em Tecnologias da Informação com experiência em Gestão de T.I.
