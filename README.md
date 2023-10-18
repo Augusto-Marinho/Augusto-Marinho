@@ -2,7 +2,15 @@ Olá Seja Bem Vindo ao meu GitHub!
 <h1>Augusto Marinho</h1>
 <h2>
 Para voce me conhecer melhor</h2> 
-<p> Gestor em Tecnologia e Inovação, especialista em ERP, Processos de Negócios, E-Commerce, Scrum Foudation Professional e menbro da ANPPD®, DJ por Hobby, Amante de Rock, Cinéfilo e Flamenguista </p>
+<p>Carreira em Tecnologias da Informação com experiência em Gestão de T.I.
+
+Graduado em Marketing Organizacional e Análise e Desenvolvimento de Sistemas.
+
+Implantação e administração do sistema ERP, infraestrutura, processos de negócios, servidores Windows Server, suporte aos usuários, treinamento de equipe de vendas e operacionais, relatórios.
+
+Desempenho das atividades com o máximo de responsabilidade, comprometimento e focado em soluções e resultados, alinhado com os objetivos da empresa, aplicando as melhores praticas do mercado.
+
+Scrum Foudation Professional, Menbro da ANPPD®, DJ por Hobby, Amante de Rock, Cinéfilo e Flamenguista </p>
 
 <h3> Tecnologias que estou estudando</h3>
 
